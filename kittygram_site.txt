@@ -1,0 +1,5 @@
+IP: 84.201.140.189;
+name_taski: wayer.ddns.net;
+name_kittygram: htttps://wayer5.zapto.org;
+login: M555;
+password: Tmi54dQ258;
